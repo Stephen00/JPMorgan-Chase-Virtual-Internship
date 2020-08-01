@@ -3,6 +3,11 @@
 This repository includes the completed patch files associated to the tasks undertaken in the JPMorgan Chase & Co. Software Engineering Virtual Internship
 
 
+## My Certificate of Completion 
+
+  ![](https://github.com/Stephen00/JPMorgan-Chase-Virtual-Internship/blob/master/Certificate.jpg)
+
+
 ## Open Source tool and Website Reference
 
 * [Perspective](https://perspective.finos.org/) - The open source tool used
